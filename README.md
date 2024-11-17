@@ -91,5 +91,8 @@ iv)	Creating the new test cell view
 ![image](https://github.com/user-attachments/assets/b2238854-05ea-4247-a456-b2ae73422e3a)
 ## For Transient Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/70b273b3-f8fa-487a-a162-5245b0c0a47a)
+
+
+
 ## Results:
 The design and implementation of the 2-bit multiplier using Cadence EDA tools were successfully carried out. The simulation results confirmed the correct operation of the multiplier for all input combinations. 
